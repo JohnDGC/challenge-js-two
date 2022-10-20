@@ -1,0 +1,25 @@
+{
+  "name": "challenge-js-two",
+  "version": "1.0.0",
+  "description": "Reto 2 con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-js-two.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-js-two/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-js-two#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
