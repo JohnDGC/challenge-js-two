@@ -17,4 +17,4 @@ Ejemplo:
 
 - Inicializar un array
 - Recorrer el array
-- Mostrars los nombres de los personajes en una lista
+- Mostrar los nombres de los personajes en una lista
