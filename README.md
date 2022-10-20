@@ -1,4 +1,4 @@
-# Reto básico con JS
+# Segundo Reto básico con JS
 
 Ejercicios básicos de aprendizaje
 
@@ -15,5 +15,6 @@ Ejemplo:
 
 ### Criterios
 
-- Un array de personajes
-- Estructura para buscar un elemento dentro de ese array
+- Inicializar un array
+- Recorrer el array
+- - Mostrar los nombres de los personajes en un lista
