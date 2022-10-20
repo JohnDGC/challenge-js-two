@@ -15,6 +15,5 @@ Ejemplo:
 
 ### Criterios
 
-- Inicializar un array
-- Recorrer el array
-- Mostrar los nombres de los personajes en una lista
+- Un array de personajes
+- Estructura para buscar un elemento dentro de ese array
